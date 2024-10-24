@@ -42,7 +42,7 @@ Configurable params
 ITER_FOR_SIM_TIMESTEP  = 10     # no. iterations to compute approx sim timestep
 WAIT_TIME_BEFORE_START = 5.00   # game seconds (time before controller start)
 TOTAL_RUN_TIME         = 200.00 # game seconds (total runtime before sim end)
-TOTAL_FRAME_BUFFER     = 300    # number of frames to buffer after total runtime
+TOTAL_FRAME_BUFFER     = 301    # number of frames to buffer after total runtime
 NUM_PEDESTRIANS        = 0      # total number of pedestrians to spawn
 NUM_VEHICLES           = 0      # total number of vehicles to spawn
 SEED_PEDESTRIANS       = 0      # seed for pedestrian spawn randomizer
